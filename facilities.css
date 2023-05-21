@@ -1,0 +1,21 @@
+.join-now{
+    padding: 20px;
+
+}
+.join {
+    display: block;
+    width:100%;
+    overflow: visible;
+    border-radius: 6px;
+    border-width: 1px;
+}
+
+.btn{
+    border-color:none;
+    background-color:black;
+    color:white;
+}
+
+.btn:hover{
+    background-color:rgba(255, 166, 0, 0.521);
+}
